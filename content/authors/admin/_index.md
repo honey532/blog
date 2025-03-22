@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Nikita Globin
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Nikita Globin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nikita
+last_name: Globin
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -24,8 +24,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: РУДН
+    url: https://www.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Прога
+  - учёба
+  - linux
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Студент
+    institution: РУДН
+    date_start: 2024-01-01
+    date_end: 2025-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -182,5 +182,5 @@ awards:
 ---
 
 ## About Me
+Мне нравится писать код, потому что это помогает мне создавать полезные программы и ботов. Я уже разработал свой собственный сайт и несколько телеграм-ботов, что приносит мне большое удовольствие. Кроме того, я постоянно учусь и совершенствую свои навыки, чтобы становиться лучше в программировании. Сейчас я учусь в РУДН, где получаю новые знания и опыт в этой сфере.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
